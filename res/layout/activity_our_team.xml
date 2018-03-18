@@ -1,0 +1,169 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#00000000"
+    android:clipToPadding="false"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/postback"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Core Committee"
+            android:textColor="#000"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+         <View
+        android:background="#444"
+        android:layout_height="2dp"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="Teachers:"/>
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:autoLink="phone"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:layout_marginBottom="15dp"
+             android:text="     Mr. Mathew Sam (9830587850)\n\n
+    Mr. Sanchayan Ray\n\n
+    Mr. Thomas Antony\n\n
+    Mrs. M. Nancy David\n\n
+    Mrs Srabani Dhar" />
+
+        
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="Students:" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:autoLink="phone"
+             android:layout_marginBottom="15dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="     Prashant Parnani (9831851824)\n\n
+    Tejas Bhuwania (9830240331)\n\n
+    Arnab Dutta (9836437889)\n\n
+    Himay Sheth (9038740090)\n\n
+    Shahbaz Syed (9830807731)" />
+         
+         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:text="Tech Team"
+            android:layout_marginTop="15dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+         <View
+        android:background="#444"
+        android:layout_height="2dp"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="Design Team:"/>
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="15dp"
+             android:autoLink="phone"
+             android:textSize="15sp"
+             android:text="     Sumeet Burnwal\n\n
+    Tanmoy Debnath\n\n
+    Yashvardhan Jain\n\n
+    Rishab Agarwal"
+             android:textColor="#000" />
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="Website:" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:autoLink="phone"
+             android:textSize="15sp"
+             android:layout_marginBottom="15dp"
+             android:textColor="#000"
+             android:text="     Andrew Lee\n\n
+    Yashvardhan Jain" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="App:" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:autoLink="phone"
+             android:layout_marginBottom="15dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="    Arya Das" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="5dp"
+             android:textColor="#000"
+             android:textSize="15sp"
+             android:text="Registration Form:" />
+         
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginBottom="15dp"
+             android:autoLink="phone"
+             android:text="    Shoumik Dey \n\n 
+   Sumalyo Datta"
+             android:textColor="#000"
+             android:textSize="15sp" />
+      
+    </LinearLayout>
+    
+</ScrollView>

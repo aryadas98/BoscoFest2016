@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bosco Fest 2016</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">&quot;Drawer opened.&quot;</string>
+    <string name="drawer_close">&quot;Drawer closed.&quot;</string>
+    <string name="title_activity_updates">Updates</string>
+    <string name="title_activity_fiesta">The Fiesta</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string name="title_activity_schools">Schools</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_about">About</string>
+    <string name="spinner_prompt">Select Category</string>
+    <string name="fiesta_info">   The city of Calcutta has been witnessing Bosco Fest since the 80’s and yet her fondness for the niche that we at Don Bosco School, Park Circus have carved over the years has remained unadulterated. The city’s unequivocal love has driven us to epitomize celebration and talent. Hence, at Bosco Fest this year we shall strive to uphold the vision of victory, the melody of mélange, and to ensure that the magic of the moment is not merely ephemeral.\n\n
+   Come this monsoon, we shall embark on a journey defined by the Coruscation of talent and the Cornucopia of Celebration! Let us transcend our souls from the prosaicness of our surroundings and rise to create class! Let’s unleash the hare of jauntiness and indulge in joie de vivre!\n\n
+   This July, Suit Up, Kick in the Unagi, be the Daredevil, Sing in Glee, stir the Madness and play your Cards right, because it’s gonna be a frenetic roller coaster ride!\n\n
+   The Knights’ Watch has begun! Do you have it in you?\n\n
+   Come this season of July, Bosco Fest ’16 is the one who knocks.\n\n</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_event">Event</string>
+    <string name="title_activity_rules">Rules</string>
+    <string name="title_activity_update">Update</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_our_team">OurTeam</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_sponsors">Sponsors</string>
+
+</resources>
